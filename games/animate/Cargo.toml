@@ -1,0 +1,10 @@
+[package]
+name = "animate"
+version = "0.1.0"
+authors = ["Krzysztof Langner <klangner@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+audio-games = { path = "../.." }
+piston_window = "0.98.0"
